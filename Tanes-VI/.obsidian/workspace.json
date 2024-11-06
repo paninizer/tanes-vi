@@ -4,25 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c1db1a99eb67689b",
-        "type": "tabs",
+        "id": "c5c0f59eeb5b3924",
+        "type": "split",
         "dimension": 58.03897685749087,
         "children": [
           {
-            "id": "d9f712b8ec4a3f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tanes-VI.md",
-                "mode": "source",
-                "source": false
+            "id": "c1db1a99eb67689b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9f712b8ec4a3f8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mage.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mage"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2db1c23e5893c510",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90b6451922530c78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tanium.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tanium"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tanes-VI"
-            }
+              {
+                "id": "7c844be663133cdc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Precursor Ruins.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Precursor Ruins"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "90b3df30160e1930",
@@ -111,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Precursor Ruins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Precursor Ruins"
             }
           },
           {
@@ -129,11 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Precursor Ruins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Precursor Ruins"
             }
           },
           {
@@ -155,10 +199,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Precursor Ruins.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Precursor Ruins"
             }
           },
           {
@@ -189,13 +233,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "083d82939bcd4bee",
+  "active": "dbcdc92db96da1a9",
   "lastOpenFiles": [
-    "Tanes-VI.md",
     "Tanium.md",
-    "Industries.md",
+    "Precursor Ruins.md",
+    "Mage.md",
+    "Arts.md",
     "Magecraft.md",
+    "Tanes-VI.md",
     "Science.md",
+    "Purified Tanium.md",
+    "Industries.md",
     "Welcome.md"
   ]
 }

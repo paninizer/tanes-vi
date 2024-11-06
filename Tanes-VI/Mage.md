@@ -1,0 +1,1 @@
+A mage refers to an individual of any race that is able to harness the power of [[Arts]]. Their affinity towards certain aspects of the Arts will determine their [[Mage Specialization|specialization]] and their social status. 

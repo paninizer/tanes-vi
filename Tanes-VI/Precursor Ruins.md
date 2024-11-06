@@ -1,0 +1,1 @@
+Precursor Ruins refer to the structures left behind by the [[Precursors]]. It can often contain valuable scientific knowledge and/or the valuable metal [[Tanium]]. Discovering these structures is a priority for the advancement of [[Science|science]] on [[Tanes-VI]]. 
