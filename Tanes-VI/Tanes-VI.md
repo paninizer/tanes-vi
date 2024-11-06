@@ -14,4 +14,6 @@ There are a wide variety of races in Tanes-VI, including [[Elf|elves]], [[Lupos]
 
 # Politics
 
-The politics of Tanes-VI revolves around [[Tanium]] and as such, the dominating elites of all nations are comprised of only [[Mage|mages]]. 
+The politics of Tanes-VI revolves around [[Tanium]] and as such, the dominating elites of all nations are comprised of only [[Mage|mages]]. Depending on the ruling structure of a nation ([[Democracy|democracy]], [[Constitutional Monarchy|constitutional monarchy]], etc.), non-magical people can have influence in state politics.
+
+Various [[Wars|conflicts]] have been fought over the procurement of the increasingly rare Tanium. The nation with the most control over this metal is usually establishes a hegemony. Over the [[History|history of Tanes-VI]], 
