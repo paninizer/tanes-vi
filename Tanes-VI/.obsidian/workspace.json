@@ -160,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "0d034d3a56f82132",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "083d82939bcd4bee",
+  "active": "d9f712b8ec4a3f8b",
   "lastOpenFiles": [
     "Tanes-VI.md",
     "Tanium.md",
