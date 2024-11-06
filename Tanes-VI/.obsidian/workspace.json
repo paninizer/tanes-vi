@@ -6,7 +6,7 @@
       {
         "id": "c1db1a99eb67689b",
         "type": "tabs",
-        "dimension": 58.038976857490866,
+        "dimension": 58.03897685749087,
         "children": [
           {
             "id": "d9f712b8ec4a3f8b",
@@ -27,7 +27,7 @@
       {
         "id": "90b3df30160e1930",
         "type": "tabs",
-        "dimension": 41.961023142509134,
+        "dimension": 41.96102314250913,
         "children": [
           {
             "id": "083d82939bcd4bee",
@@ -160,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "dbcdc92db96da1a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
