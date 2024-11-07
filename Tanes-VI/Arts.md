@@ -1,0 +1,1 @@
+Arts refers to the [[Magecraft|magecraft]] without using [[Tanium]] or its by-products. It is an inherited ability in individuals, though the pattern of inheritance is still unknown. 

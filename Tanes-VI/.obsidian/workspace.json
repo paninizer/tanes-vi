@@ -6,7 +6,7 @@
       {
         "id": "c1db1a99eb67689b",
         "type": "tabs",
-        "dimension": 58.038976857490866,
+        "dimension": 58.03897685749087,
         "children": [
           {
             "id": "d9f712b8ec4a3f8b",
@@ -27,7 +27,7 @@
       {
         "id": "90b3df30160e1930",
         "type": "tabs",
-        "dimension": 41.961023142509134,
+        "dimension": 41.96102314250913,
         "children": [
           {
             "id": "083d82939bcd4bee",
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -189,8 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9f712b8ec4a3f8b",
+  "active": "0d034d3a56f82132",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Purified Tanium.md",
+    "Precursor Ruins.md",
+    "Mage.md",
+    "Arts.md",
     "Tanes-VI.md",
     "Tanium.md",
     "Industries.md",
