@@ -10,9 +10,13 @@ Tanes-VI contains several continents that are surrounded by oceans. The largest 
 
 ###### Main article: [[Demographics]]
 
-There are a wide variety of races in Tanes-VI, including [[Elf|elves]], [[Lupos]], [[Dwarf|dwarves]], and [[Man|men]]. Of these, elves have the highest affinity towards the [[Arts]], and dwarves have the lowest. Members of the same demographic tends to group together and it affects the demographics of [[Nations|nations]].
+There are a wide variety of races in Tanes-VI, including [[Elf|elves]], [[Lupo]], [[Dwarf|dwarves]], and [[Man|men]]. Of these, elves have the highest affinity towards the [[Arts]], and dwarves have the lowest. Members of the same demographic tends to group together and it affects the demographics of [[Nations|nations]].
+
+
 
 # Politics
+
+###### Main article: [[Politics]]
 
 The politics of Tanes-VI revolves around [[Tanium]] and as such, the dominating elites of all nations are comprised of only [[Mage|mages]]. Depending on the ruling structure of a nation ([[Democracy|democracy]], [[Constitutional Monarchy|constitutional monarchy]], etc.), non-magical people can have influence in state politics.
 
