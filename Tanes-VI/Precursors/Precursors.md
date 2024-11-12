@@ -1,0 +1,4 @@
+The Precursors are an unknown [[Demographics|race]] that once resided on [[Tanes-VI]]. They possessed sophisticated [[Science|science]] capabilities and are suspected to be the creators of [[Tanium]], a rare yet potent energy source on Tanes-VI. Sadly, all that remains of them are tattered [[Precursor Ruins|ruins]] and scarce documents found within that tell the story of a [[Disasters|disaster]].
+
+The Precursors do not seem to possess any abilities to harness [[Magecraft]], therefore [[Unified Era]] archaeologists question whether the Precursors exist or are just the artifacts of a [[Vespises Trilogy|bygone era]]. However, findings do indicate that the Precursors existed separately from any other civilization that once resided on these lands, especially with their intricate machinery and heavily-guarded ruins which bear unfamiliar writing.
+
