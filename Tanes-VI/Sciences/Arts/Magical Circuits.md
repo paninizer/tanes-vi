@@ -1,0 +1,1 @@
+Magical circuits are inner circuits within an individual's body that functions like nerves, allowing them to harness the [[Arts]] and use magical energy. First discovered by the [[Lupo]] researcher [[Velinia Minnesota]], it is a cornerstone in the [[Science|science]] of [[Tanes-VI]]. 

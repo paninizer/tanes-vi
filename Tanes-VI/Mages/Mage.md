@@ -1,1 +1,9 @@
 A mage refers to an individual of any race that is able to harness the power of [[Arts]]. Their affinity towards certain aspects of the Arts will determine their [[Mage Specialization|specialization]] and their social status. 
+
+## History of Mages
+
+The discovery of Arts stems from the [[Elf|elves]], who revealed that certain individuals can have the ability to manipulate certain aspects of nature, such as water, air, or metal in a way that seems impossible. However, their knowledge is built upon the belief system of [[Aeon|Aeons]], thereby limiting the scientific categorization and research of Arts. 
+
+The first individual to scientifically research the Arts is the [[Lupo]] [[Velinia Minnesota]], who discovered the existence of [[Magical Circuits|magical circuits]] and quantified magical energy as units of [[Velin]]. Using these fundamental theories, all other scientific research on the Arts proceeded and evolved into the [[Industries|industrialisation]] of Arts.
+
+Due to their ability to utilize Arts, mages quickly rise to power in all countries, creating a class divide that would endure for millennia. Powerful mages usually would marry those of "pure blood" descent in order to ensure a greater chance of successors being a mage. Yet, research in genetics have proven that there is no correlation between blood heritage and magical circuits, and that children only have 50% chance of having a magical circuit. Since then, most mage families expanded their family trees to further preserve their [[Family Crest|family crest]], while some kept lobbying to preserve the "purity" of mages. 
